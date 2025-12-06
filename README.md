@@ -57,6 +57,3 @@ The data for this study was augmented using information on renewable energy, urb
 • Code & Datasets: Available here: https://github.com/AshishSiwach/BEMM457_Coursework2.git
 
 • Data Sources: Our World in Data, World Bank (WDI).
-
---------------------------------------------------------------------------------
-This project provides a robust foundation for understanding CO2 emission patterns, serving as an important step toward assisting policymakers and stakeholders in achieving global sustainability and emission reduction goals, such as those stated in the Paris Agreement 2015 and the Kyoto Protocol 1997.
